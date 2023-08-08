@@ -1,0 +1,3 @@
+x <- 3
+y <- x^0.5
+print(paste("Square root= ",z))
