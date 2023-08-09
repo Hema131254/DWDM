@@ -1,0 +1,5 @@
+x <- c(200,300,400,600,1000)
+nmin <- (0)
+nmax <- (1)
+min_max <- (x-min(x))/(max(x)-min(x))
+print(paste("Result =",min_max))
