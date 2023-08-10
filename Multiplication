@@ -1,4 +1,0 @@
-x <- 89
-y <- 3
-z <- x*y
-print(paste("Product=",z))
