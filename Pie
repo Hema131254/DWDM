@@ -1,5 +1,0 @@
-x <- c(21,62,10,53)
-labels <- c("london","new york","singapore","mumbai")
-png(File="City.png")
-pie(x.labels)
-dev.off()
