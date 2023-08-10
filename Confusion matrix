@@ -1,3 +1,0 @@
-set.seed(123)
-data <- data.frame(actual=sample(c("True","False"),100,replace=TRUE),prediction=sample(c("True","False"),100,replace=TRUE))
-table(data$prediction,data$actual)
