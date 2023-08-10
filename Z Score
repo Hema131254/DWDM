@@ -1,5 +1,0 @@
-x <- c(200,300,400,600,1000)
-y <- mean(x)
-z <- sd(x)
-N <- (x-y)/z
-print(paste(N))
