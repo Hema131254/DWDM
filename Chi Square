@@ -1,6 +1,0 @@
-library(MASS)
-print(str(survey))
-stu_data=data.frame(survey$smoke,survey$Exer)
-stu_data=table(survey$smoke,survey$Exer)
-print(stu_data)
-print(chisq.test(stu_data))
